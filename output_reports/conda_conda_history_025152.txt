@@ -1,0 +1,9 @@
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py create -n conda_tools --clone c:/programdata/anaconda3/envs/conda_core
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install conda conda-build -c conda-forge
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py uninstall zstandard
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install zstandard
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py update conda conda-build -c conda-forge
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge grayskull
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install ipykernel -n conda_tools
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge gradio
+# cmd: C:\ProgramData\Anaconda3\Scripts\conda-script.py install -c conda-forge itables
