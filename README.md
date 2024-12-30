@@ -1,8 +1,11 @@
-# **Visually Compare Two Environments Using Interactive Dataframes - PROD VERSION**
+# **Visually Compare Two Environments Interactively using iTables
+***PROD VERSION***
 
 ## Project & Work Product Description: 
 
-This Jupyter Notebook provides a tool to visually compare two Python environments using interactive dataframes. It leverages the `iTables` package for interactive table displays and the `packaging` module for comparing package versions using Semantic Versioning.
+This Jupyter Notebook provides a tool to visually compare two Python environments using interactive dataframes. 
+It leverages the `iTables` package for interactive table displays and the `packaging` module for comparing package versions using Semantic Versioning.
+It uses the Pandas `Styling` package to highlight specific cells based on rules determined by the programmer.
 
 ### Features
 - **Interactive Dataframes**: Uses `iTables` for interactive grid displays.
