@@ -68,50 +68,18 @@ This Jupyter Notebook provides a tool to visually compare two Python environment
 - **Packaging**: [Packaging Documentation](https://packaging.pypa.io/en/latest/)
 
 ### Future Enhancements
-- Convert the notebook into a single script file or a Streamlit app.
+- TODO: Convert the notebook into a single script file or a Streamlit app.  Initial version can output text only.  
 - Generate an output report in HTML format.
-
+- Create another version that embeds the code into a Streamlit (or Gradio) application.
+- 
 ### Example
-To use this notebook, ensure that `iTables` and `packaging` are installed in your runtime environment. Then, run the notebook to compare two Python environments and visualize the differences interactively.
+To use the notebook version, ensure that `iTables` and `packaging` are installed in your runtime environment. 
+
+Then, run the notebook to compare two Python environments and visualize the differences interactively.
 
 ---
-
-This summary provides an overview of the notebook's design, features, usage, function descriptions, and future enhancements.
-
-## Application Use: ***(Instructions for How to Use The Software)*** 
-    If your application applies to multiple use cases, list and briefly describe each major use case. 
-
-## Description of Solution:
-    •	Software functions for solving problem(s) step by step.
-    •	Workflow diagram of future ("TO-BE") state (improved processes from your solution).
-    •	"Minimum Viable Product" (MVP) 1.0 delivered.  (V1.x delivered beyond MVP V1.0?)
-    •	Later MVP, i.e., v2, v3, vN+ functionality to be delivered? 
-            • additional requirements, GUI, usability, etc. for later versions
-
-### Application Use - ***Tips & Tricks***:    
-
-    If it is not obvious or documentation is not built into the user interface (or written in a Jupyter Notebook), then briefly describe each major use case.  Minor variations can be left out. 
-Additional Important Guidelines for Others to Use Your Work Product:
-
-    If there are other important things you learned or know from using, applying, or developing your project code, then please let others know.  This can save people hours or days of time. 
-    
-    This can include details on any aspect of usage, including installation, dependencies of OS, platform, package dependencies, data source limitations, or simply Tips & Tricks for new users.  
-    
-
-## Lessons Learned: [optional here, can be put at the end.]
-
-[ Hyperlinks to more detailed project description information can be linked to documents in subfolders in the github repository. ]:
-
-## Installation:
-
-    Step-by-step instructions for OTHERS to install, set-up, use, re-use, and apply your software:   
-
-    Instructions to get your solution working:
-
-    Installation: 
-    Software packages and tools:
-        Configuration, Input and output folder structure, 
-        data sets, URLs, etc.
-
+## Lessons Learned: 
+- iTables is AWESOME, but a little deep, so it needs a few hours to learn all the primary features. 
+- **iTables**: [iTables Documentation](https://mwouts.github.io/itables/)
 
 
