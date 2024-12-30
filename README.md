@@ -1,4 +1,4 @@
-# Project Name: **Visually Compare Two Environments Using Interactive Dataframes - PROD VERSION**
+# **Visually Compare Two Environments Using Interactive Dataframes - PROD VERSION**
 
 ## Project & Work Product Description: 
 
